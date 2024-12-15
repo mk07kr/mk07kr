@@ -1,50 +1,57 @@
 <h1 align="center">Hello 👋, I'm MAYANK KUMAR</h1>
-<h3 align="center">CSE Upgrad @ ITER, SOA'24</h3>
-<h4 align="center">Served as Junior Under Officer @ National Cadet Corps</h4> 
-<h3 align="center">Proficient Java Developer & <br>A Front-end React Web Developer Building modern-day UI components to enhance application performance using JavaScript & ReactJS</h3>
+<h3 align="center"> CSE Upgrad @ ITER , SOA'24 </h3>
+<h4 align="center"> Served as Junior Under Officer @ National Cadet Corps</h4> 
+<h3 align="center">
+    Proficient Java Developer & <br>
+    A Front-end React Web developer building modern-day UI components to improve application performance using Javascript & ReactJS
+</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mk07kr&label=Profile%20views&color=0e75b6&style=flat" alt="mk07kr" />
+<p align="left">
+    <img src="https://komarev.com/ghpvc/?username=mk07kr&label=Profile%20views&color=0e75b6&style=flat" alt="mk07kr" />
+</p>
+<p align="left">
+    <a href="https://twitter.com/mk07kr" target="blank">
+        <img src="https://img.shields.io/twitter/follow/mk07kr?logo=twitter&style=for-the-badge" alt="mk07kr" />
+    </a>
 </p>
 
+- 🔭 I’m currently building **real-life projects on ReactJS**
+
+- 🌱 I’m currently gaining hands-on experience in **SpringBoot**
+
+- 💬 Feel free to ask me about **Full Stack JAVA**
+
+- 📫 Reach out: Ping me here -> **mk8787kr@gmail.com**
+
+- 📄 Know about my experiences:
+  [Resume](https://drive.google.com/file/d/1bqpZOW8qRs_kfDh_MUZuwcwfmZWnOAyS/view?usp=sharing)
+
+- ⚡ Fun fact: **I think witty > cool**
+
+---
+
+<h3 align="center">🌟 Connect with me 🌟</h3>
 <p align="center">
-  <a href="https://twitter.com/mk07kr" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/mk07kr?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
-  </a>
+    <a href="https://linkedin.com/in/mayank07kr">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://twitter.com/mk07kr">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    </a>
+    <a href="https://instagram.com/witty.mayank">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    </a>
 </p>
 
 ---
 
-### 🔭 Current Work
-- Building **real-life projects on ReactJS**  
-- Gaining hands-on experience in **SpringBoot**  
+<h3 align="center">🚀 Featured Projects</h3>
+<ul>
+    <li><a href="https://github.com/mk07kr/ONS">One Stop Shopping Web</a>: Get everything at a single place.</li>
+    <li><a href="https://github.com/mk07kr/React_Tutotials">Text Utils Using React</a>: Play with Text.</li>
+</ul>
 
-### 💬 Reach Out
-- Ask me about **Full Stack JAVA Development**  
-- 📧 **mk8787kr@gmail.com**  
 
-### 📄 Resume
-[Click to View Resume](https://drive.google.com/file/d/1bqpZOW8qRs_kfDh_MUZuwcwfmZWnOAyS/view?usp=sharing)
-
----
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://twitter.com/mk07kr" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/mayank07kr" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/mayankmishra" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/witty.mayank" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-</p>
-
----
 
 <h3 align="center">MY TECH STACK:</h3>
 <p align="center">
@@ -101,7 +108,15 @@
   </a>
 </p>
 
----
+<h3 align="center">🎉 Fun Facts</h3>
+<p align="center">I love exploring new tech, playing chess, and experimenting with UI/UX designs!</p>
+
+
+
+<h3 align="center">📖 Quote of the Day</h3>
+<blockquote align="center">
+    "Don't just write ! Design Code like humor" ~ MK
+</blockquote>
 
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mk07kr&theme=default" alt="GitHub Streak" />
