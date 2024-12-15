@@ -8,7 +8,7 @@
 
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=mk07kr&label=Profile%20views&color=0e75b6&style=flat" alt="mk07kr" />
-</p>
+</p> 
 <p align="left">
     <a href="https://twitter.com/mk07kr" target="blank">
         <img src="https://img.shields.io/twitter/follow/mk07kr?logo=twitter&style=for-the-badge" alt="mk07kr" />
