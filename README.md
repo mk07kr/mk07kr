@@ -3,7 +3,10 @@
 <h3 align="center">Proficient Java Developer & A Front-end React Web developer Building modern-day UI components to improvise application performance using Javascript & ReactJS</h3>
 (img align="right" alt="Coding" width="400" src="https://www.bing.com/images/search?view=detailV2&ccid=LgmNw%2F5D&id=A6DEA46030500D0D04FA6E828D49A0922D2EDE74&thid=OIP.LgmNw_5DtcveYzc8Fkg81wHaHa&mediaurl=https%3A%2F%2Fmedia1.tenor.com%2Fimages%2F2e098dc3fe43b5cbde63373c16483cd7%2Ftenor.gif%3Fitemid%3D16798492&exph=498&expw=498&q=animated+neon+welcome+banner+gif&simid=608013326748430838&FORM=IRPRST&ck=698E7DC819D73419D0CE78321D7C6728&selectedIndex=3&itb=0&cw=1375&ch=707&ajaxhist=0&ajaxserp=0")
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mk07kr&label=Profile%20views&color=0e75b6&style=flat" alt="mk07kr" /> </p>
+
+<p align="left"> <a href="https://twitter.com/mk07kr" target="blank"><img src="https://img.shields.io/twitter/follow/mk07kr?logo=twitter&style=for-the-badge" alt="mk07kr" /></a> </p>
 
 - 🔭 I’m currently working on **Spring Frameworks**
 
@@ -29,8 +32,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Starbucks ?"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Starbucks ?" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mk07kr&show_icons=true&locale=en&layout=compact" alt="mk07kr" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mk07kr&show_icons=true&locale=en" alt="mk07kr" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mk07kr&" alt="mk07kr" /></p>
+
+
+
+
