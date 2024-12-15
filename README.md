@@ -28,7 +28,15 @@
 
 - ⚡ Fun fact: **I think witty > cool**
 
----
+<p> <br> </p>
+<img src="https://raw.githubusercontent.com/mk07kr/mk07kr/output/snake.svg" alt="Snake animation" />
+
+<p> <br> </p>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/mk07kr/count.svg?"  />
+</div>
+<p> <br> </p>
+
 
 <h3 align="center">🌟 Connect with me 🌟</h3>
 <p align="center">
