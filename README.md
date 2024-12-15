@@ -32,10 +32,10 @@
 <img src="https://raw.githubusercontent.com/mk07kr/mk07kr/output/snake.svg" alt="Snake animation" />
 
 <p> <br> </p>
-<div align="center">
+<!-- <div align="center">
   <img src="https://profile-counter.glitch.me/mk07kr/count.svg?"  />
 </div>
-<p> <br> </p>
+<p> <br> </p> -->
 
 
 <h3 align="center">🌟 Connect with me 🌟</h3>
@@ -58,11 +58,12 @@
     <li><a href="https://github.com/mk07kr/ONS">One Stop Shopping Web</a>: Get everything at a single place.</li>
     <li><a href="https://github.com/mk07kr/React_Tutotials">Text Utils Using React</a>: Play with Text.</li>
 </ul>
-
+<p> <br> </p>
 
 
 
 <h3 align="left">💻 MY TECH STACK:</h3>
+<p> <br> </p>
 <div align="left" style="display: flex; flex-wrap: nowrap; gap: 15px;">
     <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
         <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
