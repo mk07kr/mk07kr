@@ -55,7 +55,7 @@
 
 
 <h3 align="center">💻 MY TECH STACK</h3>
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 15px;">
+<div align="center" style="display: flex; gap: 20px; flex-wrap: nowrap;">
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" 
             alt="Java" width="60" height="60" title="Java" 
@@ -84,7 +84,6 @@
             onmouseover="this.style.transform='scale(1.2)'" 
             onmouseout="this.style.transform='scale(1)'" />
     </a>
-    
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" 
             alt="Linux" width="60" height="60" title="Linux" 
@@ -114,6 +113,7 @@
             onmouseout="this.style.transform='scale(1)'" />
     </a>
 </div>
+
 
 
 <h3 align="center">🎉 Fun Facts</h3>
