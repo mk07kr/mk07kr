@@ -29,7 +29,7 @@
 - ⚡ Fun fact: **I think witty > cool**
 
 <p> <br> </p>
-<img src="https://raw.githubusercontent.com/mk07kr/mk07kr/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/mk07kr/mk07kr/output/snakeA.svg" alt="Snake animation" />
 
 <p> <br> </p>
 <!-- <div align="center">
