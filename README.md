@@ -84,7 +84,7 @@
             onmouseover="this.style.transform='scale(1.2)'" 
             onmouseout="this.style.transform='scale(1)'" />
     </a>
-    <br>
+    
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" 
             alt="Linux" width="60" height="60" title="Linux" 
