@@ -1,4 +1,6 @@
-<h1 align="center">Hello 👋, I'm MAYANK KUMAR</h1>
+<h1 align="center">Hello 👋, **I'm MAYANK KUMAR** </h1>
+<h3 align="center"> CSE Upgrad @ ITER , SOA'24 </h3>
+<h4> Served as Junior Under Officer @ National Cadet Corps</h4> 
 <h3 align="center">Proficient Java Developer & A Front-end React Web developer Building modern-day UI components to improvise application performance using Javascript & ReactJS</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mk07kr&label=Profile%20views&color=0e75b6&style=flat" alt="mk07kr" /> </p>
