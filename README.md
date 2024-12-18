@@ -4,7 +4,7 @@
 <h3 align="center">
     Proficient Java Developer & <br>
     A Front-end React Web developer building modern-day UI components to improve application performance using Javascript & ReactJS
-</h3>
+</h3> 
 
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=mk07kr&label=Profile%20views&color=0e75b6&style=flat" alt="mk07kr" />
