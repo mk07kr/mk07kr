@@ -148,7 +148,7 @@
 </blockquote>
 <p> </p>
 <div align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mk07kr&theme=radical" alt="GitHub Streak" />
+  <img align="center" src="https://streak-stats.demolab.com/?user=mk07kr&theme=radical&cache_seconds=86400" alt="GitHub Streak" />
 </div>
 
 
