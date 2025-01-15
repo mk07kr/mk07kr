@@ -145,8 +145,10 @@
 <h3 align="center">📖 Quote of the Day</h3>
 <blockquote align="center">
     "Don't just write ! Design Code like humor" ~ MK
-</blockquote><p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mk07kr&theme=default" alt="GitHub Streak" />
-</p>
+</blockquote>
+<p> </p>
+<div align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mk07kr&theme=radical" alt="GitHub Streak" />
+</div>
 
 
