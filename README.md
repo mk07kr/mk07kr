@@ -1,19 +1,13 @@
 <h1 align="center">Hello 👋, I'm MAYANK KUMAR</h1>
-<h3 align="center"> CSE Upgrad @ ITER , SOA'24 </h3>
-<h4 align="center"> Served as Junior Under Officer @ National Cadet Corps</h4> 
-<h3 align="center">
-    Proficient Java Developer & <br>
-    A Front-end React Web developer building modern-day UI components to improve application performance using Javascript & ReactJS
-</h3> 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
+<div style="align:left;">
+<img alt="GIF" src="https://i.pinimg.com/originals/9e/a7/2e/9ea72ef078139ced289852e8a4ea0c5c.gif" width = 200 align="left"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=Hey!+its+Mayank+Kumar;Java+Developer;Full+stack+web+developer...;Software+Engineer;Contact:+mk1309kr@gmail.com" /> 
 
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=mk07kr&label=Profile%20views&color=0e75b6&style=flat" alt="mk07kr" />
 </p> 
-<p align="left">
-    <a href="https://twitter.com/mk07kr" target="blank">
-        <img src="https://img.shields.io/twitter/follow/mk07kr?logo=twitter&style=for-the-badge" alt="mk07kr" />
-    </a>
-</p>
 
 - 🔭 I’m currently building **real-life projects on ReactJS**
 
@@ -26,7 +20,6 @@
 - 📄 Know about my experiences:
   [Resume](https://drive.google.com/file/d/1bqpZOW8qRs_kfDh_MUZuwcwfmZWnOAyS/view?usp=sharing)
 
-- ⚡ Fun fact: **I think witty > cool**
 
 <p> <br> </p>
 <!-- <img src="https://raw.githubusercontent.com/mk07kr/mk07kr/output/snakeA.svg" alt="Snake animation" /> -->
