@@ -20,6 +20,7 @@
  </i></p>
 <br>
 <img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" align="right" />
+
 📄 Know about my experiences:
   [Resume](https://drive.google.com/file/d/1bqpZOW8qRs_kfDh_MUZuwcwfmZWnOAyS/view?usp=sharing)
 
@@ -54,7 +55,7 @@
     <li><a href="https://github.com/mk07kr/ONS">One Stop Shopping Web</a>: Get everything at a single place.</li>
     <li><a href="https://github.com/mk07kr/React_Tutotials">Text Utils Using React</a>: Play with Text.</li>
 </ul>
-<p>  </p>
+<p> <br> </p>
 
 
 
